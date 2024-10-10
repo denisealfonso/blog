@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Denise's RANTY EMAIL BLOG - Personal</title><link href="/" rel="alternate"></link><link href="/feeds/personal.atom.xml" rel="self"></link><id>/</id><updated>2024-10-09T10:20:00-04:00</updated><entry><title>Hello World</title><link href="/hello-world.html" rel="alternate"></link><published>2024-10-09T10:20:00-04:00</published><updated>2024-10-09T10:20:00-04:00</updated><author><name>Denise</name></author><id>tag:None,2024-10-09:/hello-world.html</id><content type="html">&lt;p&gt;Hi, this is a blog.&lt;/p&gt;
+&lt;p&gt;Yay!&lt;/p&gt;</content><category term="Personal"></category><category term="personal"></category></entry></feed>
